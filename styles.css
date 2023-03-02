@@ -1,1 +1,38 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+
+p{
+    text-align: justify;
+}
+
+.introduction{
+
+    font-weight: 500;
+
+}
+
+#mainHeading  {
+    
+    text-align: center;
+    border: 3px solid green;
+    color: red;
+      
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 650px;
+  }
+
+.funParagraph  {
+    
+    color: green;
+      
+}
